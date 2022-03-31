@@ -34,6 +34,7 @@
 
         <EditText
             android:id="@+id/country_population_edit_text"
+            android:inputType="numberPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -45,6 +46,7 @@
 
         <EditText
             android:id="@+id/country_rank_edit_text"
+            android:inputType="numberPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
